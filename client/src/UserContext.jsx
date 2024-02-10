@@ -12,9 +12,8 @@ export function UserContextProvider({children}) {
           setUser(data);
           setReady(true);
         });
-      } else {
-        setReady(true);
       }
+      setReady(true);
     }, []);
 
     return (

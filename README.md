@@ -1,1 +1,1 @@
-New booking app like aurbnb! 
+New booking app like airbnb! 
